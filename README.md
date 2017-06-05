@@ -6,10 +6,12 @@ Everyone is allowed to contribute pull requests to the code. Milestone list with
 
 The game has a planned revenue and contributors will be rewarded proportionally once revenue kicks in. More on the propotional formula for revenue attribution on AGREEMENT.md
 
-**Why a clone**
+# Frequently Asked Questions
+
+**Why a clone?**
 The original game features an awesome gameplay under a game engine that is outdated and with low multi-platform support. So, why not!
 
-**How do contributors get compensated**
+**How do contributors get compensated?**
 This is a work in progress but here is the gist: all contributions can be measured through commits. This means the fine details of how many bytes and lines of text someone has added. A formula can then be used to measure proportionally the amount of code contributed throughout the lifetime of an account and on a monthly basis. Then if say the project collects $1000 in ad revenue for a month and an individual delivered 20% of the code or materials, they get $200. The details of the "formula" are a work in progress that is expected to be discussed a lot by the community building the game in order for the distribution of the compensation to be fair.
 
 **Why not opensource?**
