@@ -6,7 +6,7 @@ Everyone is allowed to contribute pull requests to the code. Milestone list with
 
 The game has a planned revenue and contributors will be rewarded proportionally once revenue kicks in. More on the propotional formula for revenue attribution on AGREEMENT.md
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **Why a clone?**
 The original game features an awesome gameplay under a game engine that is outdated and with low multi-platform support. So, why not!
